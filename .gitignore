@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Indexer/Indexer.sln
+/Indexer/.vs/Indexer/v16/Server/sqlite3
+/Indexer/.vs/Indexer/v16/.suo
+/Indexer/Indexer/bin/Debug/netcoreapp2.2
+/Indexer/Indexer/obj/Debug/netcoreapp2.2
+/Indexer/Indexer/obj/project.assets.json
+/Indexer/Indexer/obj/Indexer.csproj.nuget.g.targets
+/Indexer/Indexer/obj/Indexer.csproj.nuget.g.props
+/Indexer/Indexer/obj/Indexer.csproj.nuget.dgspec.json
+/Indexer/Indexer/obj/Indexer.csproj.nuget.cache
+/Indexer/Indexer/Indexer.csproj
+/Indexer/Indexer/.gitignore
