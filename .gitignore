@@ -14,3 +14,6 @@
 /Indexer/Indexer/obj/Indexer.csproj.nuget.cache
 /Indexer/Indexer/Indexer.csproj
 /Indexer/Indexer/.gitignore
+/Indexer/Features/bin/Debug/netcoreapp2.2
+/Indexer/Features/obj/Debug/netcoreapp2.2
+/Indexer/Features/obj
